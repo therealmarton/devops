@@ -15,7 +15,7 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt adatok megjelenít
 - **3x1p:** Az alkalmazásban használt táblánként pont 3 tábla *(3p)*  
 - **1p:** Az adatbázis tartalmaz Constraint-eket (minimum 2) *(1p)*  
 - **2p:** Az adatbázis saját Azure SQL szerveren van *(2p)*  
-- **1p:** Az adatbázis adatainak forrásmegjelölése *(1p)*  
+- **1p:** Az adatbázis adatainak forrásmegjelölése : Az adatbázisom rekordjainak generálásához a chat gpt-t használtam. A promtban megadtam az egyes táblák oszlopainak tulajdonságait és a constrainteket *(1p)*  
 
 **Részösszeg:** 7p  
 
