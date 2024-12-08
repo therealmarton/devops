@@ -3,10 +3,10 @@ Név: Marton Ádám
 
 Neptun:RHOX91
 
-#Projekt rövid leírása:
+# Projekt rövid leírása:
 Egy egyszerű webapplikáció egy autószerviz által tárolt adatok megjelenítésére. 
 
-#Hozott anyagok:
+# Hozott anyagok:
 Saját Adatbázis (azure)
 
 3x1p Az alkalmazásban használt táblánként pont 3 tábla()
@@ -26,11 +26,11 @@ weboldal
 1p A weboldal javascriptje más funkciót is ellát, mint az adatok betöltése
 Részösszeg: 4p Eddig: 11p
 
-#Egyéb, extra
+# Egyéb, extra
 1p Scaffold-DbContext használata
 Részösszeg: 1p Eddig: 12p
 
-#ASP .NET
+# ASP .NET
 2p program.cs beállítása wwwroot mappában tárolt statikus tartalmak megosztására
 Részösszeg: 2p Eddig: 14p
 
@@ -50,4 +50,4 @@ Javascript
 
 Részösszeg: 10p Eddig: 45p
 
-#Összessen: 45p
+# Összessen: 45p
