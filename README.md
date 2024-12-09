@@ -26,10 +26,9 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 - **1p:** A weboldalnak van egy értelmezhető struktúrája *(1p)*  
 - **1p:** A weboldal dinamikus tartalommal tölthető fel adatbázison keresztül *(1p)*  
 - **1p:** A weboldal használ legalább 20 sor értelmes CSS-t *(1p)*  
-- **1p:** A weboldal JavaScriptje más funkciót is ellát, mint az adatok betöltése *(1p)*  
 
-**Részösszeg:** 4p  
-**Eddig összesen:** 11p  
+**Részösszeg:** 3p  
+**Eddig összesen:** 10p  
 
 ---
 
@@ -38,7 +37,7 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 - **1p:** Scaffold-DbContext használata *(1p)*  
 
 **Részösszeg:** 1p  
-**Eddig összesen:** 12p  
+**Eddig összesen:** 11p  
 
 ---
 
@@ -47,7 +46,7 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 - **2p:** `program.cs` beállítása a `wwwroot` mappában tárolt statikus tartalmak megosztására *(2p)*  
 
 **Részösszeg:** 2p  
-**Eddig összesen:** 14p  
+**Eddig összesen:** 13p  
 
 ---
 
@@ -60,7 +59,7 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 - **2x3p:** Rekord módosítása `HttpPost` metóduson keresztül SQL táblában *(6p)*  
 
 **Részösszeg:** 21p  
-**Eddig összesen:** 35p  
+**Eddig összesen:** 34p  
 
 ---
 
@@ -69,7 +68,7 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 - **2x5p:** DOM feltöltése JavaScripttel *(10p)*  
 
 **Részösszeg:** 10p  
-**Eddig összesen:** 45p  
+**Eddig összesen:** 44p  
 
 ---
 
