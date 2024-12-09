@@ -13,9 +13,9 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 ## Hozott anyagok
 
 - **3x1p:** Az alkalmazásban használt táblánként pont. 3 tábla van összesen az adatbázisben és mindegyiket használom. (Customers, Cars, Repairs) *(3p)*  
-- **1p:** Az adatbázis tartalmaz Constraint-eket (minimum 2). Vannak FORIGN KEY constraintjeim, továbbá Email formátum CHECK, illetve egyediségi UNIQUE constraintem is.  *(1p)*  
+- **1p:** Az adatbázis tartalmaz Constraint-eket (minimum 2). Vannak FORIGN KEY constraintek, továbbá Email formátum (CHECK), illetve egyediségi (UNIQUE) constraintem is.  *(1p)*  
 - **2p:** Az adatbázis saját Azure SQL szerveren van. `szof2.database.windows.net` -> `cpdb` adatbázis *(2p)*  
-- **1p:** Az adatbázis adatainak forrásmegjelölése : Az adatbázisom rekordjainak generálásához a chat gpt-t használtam. A promtban megadtam az egyes táblák oszlopainak tulajdonságait és a constrainteket *(1p)*  
+- **1p:** Az adatbázis adatainak forrásmegjelölése : Az adatbázisom két táblájának rekordjait (Cars, Customers) a részben a baráti köröm adataiból manuálisan írtam meg, a Repairs tábla adatainak generálásájoz a chat gpt-t használtam. A promtban megadtam a promptban megadtam a meglévő táblák felépítését. *(1p)*  
 
 **Részösszeg:** 7p  
 
