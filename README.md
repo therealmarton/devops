@@ -25,7 +25,7 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 
 - **1p:** A weboldalnak van egy értelmezhető struktúrája *(1p)*  
 - **1p:** A weboldal dinamikus tartalommal tölthető fel adatbázison keresztül *(1p)*  
-- **1p:** A weboldal használ legalább 20 sor értelmes CSS-t *(1p)*  
+- **1p:** A weboldal használ legalább 20 sor értelmes CSS-t *(1p)*  !!!!!
 
 **Részösszeg:** 3p  
 **Eddig összesen:** 10p  
@@ -49,14 +49,14 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 **Eddig összesen:** 13p  
 
 ---
-
+###
 ## API végpontok
 
-- **3p:** Teljes SQL tábla adatainak szolgáltatása API végponton keresztül *(3p)*  
-- **2x2p:** SQL tábla egy választható rekordjának szolgáltatása API végponton keresztül *(4p)*  
-- **3p:** SQL tábla egy választható rekordjának törlése *(3p)*  
-- **5p:** Új rekord felvétele `HttpPost` metóduson keresztül SQL táblába *(5p)*  
-- **2x3p:** Rekord módosítása `HttpPost` metóduson keresztül SQL táblában *(6p)*  
+- **3p:** Teljes SQL tábla adatainak szolgáltatása API végponton keresztül *(3p)*  #
+- **2x2p:** SQL tábla egy választható rekordjának szolgáltatása API végponton keresztül *(4p)*  #
+- **3p:** SQL tábla egy választható rekordjának törlése *(3p)*  #
+- **5p:** Új rekord felvétele `HttpPost` metóduson keresztül SQL táblába *(5p)*  #
+- **2x3p:** Rekord módosítása `HttpPost` metóduson keresztül SQL táblában *(6p)*  ##
 
 **Részösszeg:** 21p  
 **Eddig összesen:** 34p  
