@@ -72,4 +72,4 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 
 ---
 
-## Összesen: 45p
+## Összesen: 44p
