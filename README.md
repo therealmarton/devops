@@ -71,30 +71,32 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 **Eddig összesen:** 44p  
 
 ---
+
 ## Windows Forms Application
+---
 ## Egyéb, extra
 
 - **1p:** Scaffold-DbContext használata *(1p)*
-  
-##User Interface
+--- 
+## User Interface
 
 - **1x2p** Az alkalmazásból a kilépés csak megerősítő kérdés után lehetséges. *(2p)*
   
 - **1x2p** Anchorok alkalmazása: az alkalmazás egészében meg van oldva, hogy az ablak átméretezésekor ki legyen használva a rendelkezésre álló terület. *(2p)*
   
 - **1x2p** Olyan alkalmazás elrendezés, melyben gombok lenyomására UserControl-ok kerülnek elhelyezésre egy Panel vezérlőben, teljesen kitöltve azt. Minden gombra jár a pont, amennyiben az funckuonlalitással rendelkező UserControl-t tölt be. *(2p)*
-  
-##Tábla adatainak megjelenítése DataGridView-ban
+---  
+## Tábla adatainak megjelenítése DataGridView-ban
 
 -**1x2p** Adatok megjelenítése *(2p)*
-
-##Tábla adatainak megjelenítése DataGridView-ban
+---
+## Adatkötés BindingSource -on keresztül
 
 -**1x2p** Működő BindingSource*(2p)*
 
 
-**Részösszeg:** 10p  
-**Eddig összesen:** 44p  
+**Részösszeg:** 11p  
+**Eddig összesen:** 55p  
 
 ---
 
