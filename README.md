@@ -88,11 +88,11 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 ---  
 ## Tábla adatainak megjelenítése DataGridView-ban
 
--**1x2p** Adatok megjelenítése *(2p)*
+- **1x2p** Adatok megjelenítése *(2p)*
 ---
 ## Adatkötés BindingSource -on keresztül
 
--**1x2p** Működő BindingSource*(2p)*
+- **1x2p** Működő BindingSource*(2p)*
 
 
 **Részösszeg:** 11p  
@@ -100,4 +100,4 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok adat
 
 ---
 
-## Összesen: 44p
+## Összesen: 55p
